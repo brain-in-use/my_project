@@ -121,8 +121,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-<<<<<<< HEAD
 If you have any questions, feel free to reach out at braininuse1@gmail.com.
-=======
-If you have any questions, feel free to reach out at braininuse1@gmail.com. ```
->>>>>>> ef2807dc033c0a9ad45f268a936ab06b4cf389cf
+
+
