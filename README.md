@@ -52,7 +52,7 @@ pip install faiss-cpu
 #Running the RAG System
 Create a new project directory:
 ```bash
-mkdir rag-system && cd rag-system
+cd my_project
 import streamlit as st
 from langchain_community.document_loaders import PDFPlumberLoader
 from langchain_experimental.text_splitter import SemanticChunker
